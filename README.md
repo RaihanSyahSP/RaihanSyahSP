@@ -21,4 +21,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=RaihanSyahSP&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![wakatime](https://wakatime.com/badge/user/16d164d2-1828-41e8-87f2-3aee0074510c/project/11cac338-3e3b-4a36-9e62-69010dcbd940.svg)](https://wakatime.com/badge/user/16d164d2-1828-41e8-87f2-3aee0074510c/project/11cac338-3e3b-4a36-9e62-69010dcbd940)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
