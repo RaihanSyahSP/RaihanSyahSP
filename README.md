@@ -18,7 +18,7 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-[![wakatime](https://wakatime.com/badge/user/16d164d2-1828-41e8-87f2-3aee0074510c/project/018b5fee-2a52-4fe9-8363-c0cb8ca5c958.svg)](https://wakatime.com/badge/user/16d164d2-1828-41e8-87f2-3aee0074510c/project/018b5fee-2a52-4fe9-8363-c0cb8ca5c958)
+<figure><embed src="https://wakatime.com/share/@16d164d2-1828-41e8-87f2-3aee0074510c/6720ced1-a644-4654-b2b5-b3248e53524a.svg"></embed></figure>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RaihanSyahSP&icon=0&color=0)](https://visitcount.itsvg.in)
