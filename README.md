@@ -18,6 +18,8 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
+[![wakatime](https://wakatime.com/badge/user/16d164d2-1828-41e8-87f2-3aee0074510c/project/018b5fee-2a52-4fe9-8363-c0cb8ca5c958.svg)](https://wakatime.com/badge/user/16d164d2-1828-41e8-87f2-3aee0074510c/project/018b5fee-2a52-4fe9-8363-c0cb8ca5c958)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=RaihanSyahSP&icon=0&color=0)](https://visitcount.itsvg.in)
 
