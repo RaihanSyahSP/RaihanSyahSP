@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at Universitas Komputer Indonesia<br>🌱 I’m currently learning Front End Web & Machine Learning<br>⚡ I'm currently living in Bandung
+🔭 I’m currently studying at Universitas Komputer Indonesia<br>🌱 I’m currently learning Front End Web<br>⚡ I'm currently living in Bandung
 
 
 ## 🌐 Socials:
