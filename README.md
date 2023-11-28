@@ -18,7 +18,7 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-![Wakatime Stats](https://wakatime.com/share/@16d164d2-1828-41e8-87f2-3aee0074510c/be4c5409-0994-40a9-9783-16f571cbfd1d.png)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raihan45)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
